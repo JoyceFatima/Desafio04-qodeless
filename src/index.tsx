@@ -1,13 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Home from "./pages/Home/Home";
 import "./index.css";
-import Button from "./components/Button/Button";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Button handleClick={function () {
-      alert ("você apertou o botão.")
-    }} />
+      <Home />
   </React.StrictMode>,
   document.getElementById("root")
 );
