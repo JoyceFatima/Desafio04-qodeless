@@ -5,4 +5,4 @@ function Button(props: any) {
   return <button type="submit" onClick={props.handleClick}>Botão</button>
 }
 
-export default Button
+export default Button;
