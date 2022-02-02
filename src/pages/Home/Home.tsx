@@ -32,7 +32,7 @@ function Home() {
             </picture>
           </section>
           <section className="texts">
-            <h1 className="title">Find a skilled individual to do the job.</h1>
+            <h1 className="title">Find a <span className="text_color1">skilled</span> <span className="text_color2">individual</span> to do the job.</h1>
             <p className="paragraph">
               Cube-green lets you find the right individual for any challenge
               from development to a marketing promotion.

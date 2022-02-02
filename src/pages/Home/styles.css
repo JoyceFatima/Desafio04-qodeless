@@ -69,12 +69,12 @@ button {
   align-items: center;
   padding: 2em;
   padding-top: 4em;
-  gap: 5em;
+  gap: 4em;
 }
 
 .img_site img {
   display: flex;
-  width: 100%;
+  width: 90%;
   margin: auto;
 }
 
@@ -89,6 +89,14 @@ button {
   letter-spacing: 0.08rem;
   max-width: 30rem;
   font-size: 4rem;
+}
+
+.text_color1 {
+  color: #F8AEDA;
+}
+
+.text_color2 {
+  color: #11957D;
 }
 
 .paragraph {
